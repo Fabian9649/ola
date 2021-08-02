@@ -7,7 +7,7 @@
 <body bgcolor="green">
   <h1>>olam pero ola de saludo , no de marm uvu</h1>
 <img src="https://pa1.narvii.com/7707/b567928b5c78e15f517f40fc504f65c88082107ar1-450-150_hq.gif">
-  <h2>Me llamo Fabian , estoy estudiando la computer science , en l , es mi primer cicloXD , nOaprEndiIndA </h2> 
+  <h2>Me llamo Fabian , estoy estudiando la computer science , en la U , es mi primer cicloXD , nOaprEndiIndA </h2> 
   <h2>juegovalorant si, asiiiiu essolojuegojett </h2>
   <img src="https://image.pngaaa.com/585/4818585-middle.png">
   <h1>KUUUUUUUCHAUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU </h1>
